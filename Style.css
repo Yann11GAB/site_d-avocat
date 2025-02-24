@@ -36,7 +36,7 @@ nav ul li a {
 }
 .cta-button {
     display: inline-block;
-    background-color: #803ce7;
+    background-color: red;
     color: #ecf0f1;
     padding: 10px 20px;
     text-decoration: none;
